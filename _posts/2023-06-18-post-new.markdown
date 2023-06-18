@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "This is a new post"
-date:   2023-06-18 04:32:35 -0700
-categories: jekyll update
 ---
+# Welcome
+
 This is a new post made on 2023-06-18 at 4:32am! RSS Feed should be updated with this post in real time.
